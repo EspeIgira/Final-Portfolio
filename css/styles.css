@@ -1,0 +1,185 @@
+html{
+  margin-left: 150px;
+  margin-right:150px;
+}
+html{
+  font-family: Monospace;
+}
+h1{
+  /* color:whitesmoke; */
+  margin:30px;
+}
+nav{
+  /*background-color:white;*/
+  height: 20px;
+  padding-bottom: 10px;
+  text-align:right;
+  padding-top:20px;
+}
+.navig{
+  background-color:burlywood;
+}
+.navig a{
+  color:white;
+  text-decoration: none;
+  margin-left:20px;
+  margin-right:50px;
+  padding-top:20px;
+}
+.navig a:hover{
+  background-color:cadetblue;
+  border-radius:15%;
+}
+h2 { 
+  width:100%;
+  text-align:center; 
+  border-bottom: 1px solid white; 
+  line-height:20px;
+  margin:9px 0 18px; 
+} 
+h2 span { 
+  /*background:#fff; */
+  padding:10px; 
+}
+img{
+  float:left;
+  margin:20px;
+}
+h2{
+  text-align:center;
+  /* color:white; */
+}
+.details{
+  text-align:center;
+  /* color:white; */
+  font-style:italic;
+}
+div .middle{
+  text-align:center;
+}
+.project a{
+  /* color:white; */
+}
+.created a{
+  color:white;
+}
+.first{
+  color:white;
+}
+footer { 
+ 
+ /* border-radius: 50%;
+  background-color:white; */
+  /* color: white; */
+  margin-top: 50px;
+  text-align:center;
+}
+footer i{
+  font-size:20px;
+
+}
+.icon a{
+  font-size:20px;
+  /* color:white;  */
+  padding:20px;
+  text-align:center;
+}
+
+#project a:hover{
+  color:green;
+} 
+
+#email a{
+  /* color:white; */
+  padding:20px;
+} 
+#email {
+ /* color:white; */
+ text-align:center;
+ /*padding:20px;*/
+}
+.copy p{
+  text-align:center;
+}
+.styleimg{
+  padding-bottom:50px;
+}
+.background{
+  background-image:url(https://images.pexels.com/photos/669228/pexels-photo-669228.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-origin: content-box;
+  background-position:center;
+  color:white;
+  /* border:1px solid orange; */
+  /* border-radius:15%; */
+  text-align:center;
+  opacity:0.9;
+}
+
+h2{
+  padding:250px;
+  font-size: 35px;
+  text-shadow: 30px;
+  font-weight: 300;
+  text-shadow: 0ex;
+
+}
+.background h2{
+  padding-top:20px;
+}
+.background1{
+  background-image:url(https://images.pexels.com/photos/669228/pexels-photo-669228.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-origin: content-box;
+  background-position:center;
+  color:white;
+  /* border:1px solid orange; */
+  /* border-radius:15%;
+  /* text-align:center; */
+  /* opacity:0.9;*/
+ } 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  text-align:center;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  text-align:center;
+}
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  text-align:center;
+}
+.row1::after {
+  content: "";
+  clear: both;
+  display: table;
+  text-align:center;
+}
+
+/* .container {
+  position: relative;
+} */
+.text-block {
+  position: absolute;
+  /* bottom: 20px;
+  right: 20px; */
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.imageContainer {
+  width:200px; 
+  height:200px; 
+  background-image: url(locationoftheimage);
+}
