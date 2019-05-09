@@ -17,7 +17,7 @@ nav{
   padding-top:20px;
 }
 .navig{
-  background-color:burlywood;
+  /* background-color:burlywood; */
 }
 .navig a{
   color:white;
@@ -33,7 +33,7 @@ nav{
 h2 { 
   width:100%;
   text-align:center; 
-  border-bottom: 1px solid white; 
+  /* border-bottom: 1px solid white;  */
   line-height:20px;
   margin:9px 0 18px; 
 } 
@@ -108,17 +108,18 @@ footer i{
   background-image:url(https://images.pexels.com/photos/669228/pexels-photo-669228.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   background-repeat: no-repeat;
   background-size:cover;
-  background-origin: content-box;
-  background-position:center;
+  /* background-origin: content-box; */
+  /* background-position:center; */ 
   color:white;
   /* border:1px solid orange; */
   /* border-radius:15%; */
   text-align:center;
   opacity:0.9;
+  
 }
 
 h2{
-  padding:250px;
+  padding:300px;
   font-size: 35px;
   text-shadow: 30px;
   font-weight: 300;
